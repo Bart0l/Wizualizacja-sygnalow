@@ -31,7 +31,10 @@ Liczby zawarte w pliku są zapisem danych wyjściowych z sensorów. Każdy senso
 - wskazania żyroskopu (omega_x, omega_y, omega_z) w stopniach na sekundę.
 
 Opis:
-roll - obrót prawoskrętny względem osi X, pitch - względem osi Y, yaw - względem osi Z.
+
+roll - obrót prawoskrętny względem osi X, pitch - względem osi Y,
+
+yaw - względem osi Z.
 
 a_x - przyspieszenie sensora wzdłuż osi X sensora,
 
