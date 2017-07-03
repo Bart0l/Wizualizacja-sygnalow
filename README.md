@@ -2,6 +2,8 @@
 C++ usage GUI in Win Api (External text data from sensors).  Visualization of automation signals.
 
 Projekt napisano w okresie: 2017_05
+Zadanie programistyczne z wizualizacją sygnałów automatyki.
+(C++, z wykorzystaniem GUI w WinAPI, zewnętrzne dane tekstowe z czujników)
 
 Zaimplementować program zawierający GUI w środowisku WinAPI, który wczytuje, przetwarza i wizualizuje dane aktualnego położenia kątowego (roll, pitch, yaw) robota mobilnego.
 Program (w GUI) ma rysować prosty kompas i wyświetlać aktualny kierunek robota, zakładając, że na początku ruchu robot był skierowany na północ. 
