@@ -2,6 +2,7 @@
 C++ usage GUI in Win Api (External text data from sensors).  Visualization of automation signals.
 
 Projekt napisano w okresie: 2017_05
+
 Zadanie programistyczne z wizualizacją sygnałów automatyki.
 (C++, z wykorzystaniem GUI w WinAPI, zewnętrzne dane tekstowe z czujników)
 
